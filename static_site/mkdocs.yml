@@ -1,0 +1,11 @@
+site_name: My site 
+nav:
+ - Полезные ресурсы ЮГУ: Resources.md 
+ - Полезные советы:
+   - Совет №1 : Tips/tips1.md  
+   - Совет №2 : Tips/tips2.md 
+   - Совет №3 : Tips/tips3.md
+    
+ - Ресурсы студенческого сообщества ЮГУ: ResourcesStudent.md
+
+theme: readthedocs
